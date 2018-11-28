@@ -11,6 +11,7 @@
     "react-scripts": "2.1.1",
     "react-slick": "^0.23.2"
   },
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -25,5 +26,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "homepage" : "http://TALIB4590.github.io/React-Events"
 }
